@@ -94,9 +94,10 @@ cleaned_df.to_sql("spotify_daily", con=engine, index=False, if_exists="append", 
 1. Set up a PostgreSQL database
 
 2. Run SQL scripts from /sql/:
-  01_create_tables.sql
+  ```01_create_tables.sql
   02_create_indexes.sql
   04_create_views.sql
+```
 
 3. Open and run notebooks/01_data_load_and_clean.ipynb
 
