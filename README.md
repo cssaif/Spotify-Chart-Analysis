@@ -16,10 +16,11 @@ Built with SQL, Python, and Power BI, this dashboard showcases data modeling, tr
 ---
 
 ## 📁 Folder Structure
-spotify-chart-analysis/
+```spotify-chart-analysis/
   ├── notebooks/ # Jupyter notebooks for data cleaning & feature engineering
   ├── powerbi/ # Power BI dashboard file (.pbix)
   ├── sql/ # SQL DDLs, indexes, and analytical views
+```
 ---
 
 ## 📊 Dashboard Features
