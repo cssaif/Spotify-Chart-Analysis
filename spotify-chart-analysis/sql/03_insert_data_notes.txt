@@ -1,0 +1,2 @@
+Use pandas .to_sql() in Python to upload your data.
+Truncate the tables beforehand and if_exists='append'
